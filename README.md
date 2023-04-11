@@ -9,7 +9,7 @@
 2. run ```docker-compose build --no-cache```
 3. run ```docker-compose up```
 4. Navigate to ```localhost:8080```
-5. Once downloaded move them to your clone hero songs folder
+5. Once downloaded, unzip the file, and move the songs to your clone hero songs folder
 
 ## Clone Hero
 1. Navigate to Settings/General
