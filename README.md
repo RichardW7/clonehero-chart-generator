@@ -1,4 +1,5 @@
 # clonehero-chart-generator
+Turn any song on Spotify into a playable Clone Hero format!
 ## Setup
 1. Create a spotify developer dashboard https://developer.spotify.com/dashboard/login (this gives us access to spotify API)
 2. Add ```localhost:8080``` as your redirect uri in your spotify developer dashboard
