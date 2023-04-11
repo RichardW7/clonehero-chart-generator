@@ -1,0 +1,5 @@
+start.sh
+# __pycache__/
+/node_modules/
+/public/build/
+.DS_Store
